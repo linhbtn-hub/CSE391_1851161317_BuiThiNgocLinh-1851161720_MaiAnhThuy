@@ -210,6 +210,14 @@
     width: 680px;
     margin: 5px auto;
 }
-.acc1{
-    margin-left: 100px;
+.dropdown-menu-center {
+    right: auto;
+    left: 100%;
+    -webkit-transform: translate(-100%, 0);
+    -o-transform: translate(-100%, 0);
+    transform: translate(-100%, 0);
+}
+.b1{
+    border-radius: 15px 15px 15px 15px;
+    margin-top: 10px;
 }
