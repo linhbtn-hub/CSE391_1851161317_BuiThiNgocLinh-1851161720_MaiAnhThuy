@@ -30,7 +30,7 @@
 }
 .myButton{
     border-radius: 50px 50px 50px 50px ;
-    width: 195px;
+    width: 220px;
     background-color: white;
 }
 .myButton:hover{
@@ -220,4 +220,62 @@
 .b1{
     border-radius: 15px 15px 15px 15px;
     margin-top: 10px;
+}
+.myPhone{
+    background-image: url("../img/img_shop/desktop2.png");
+    height: 460px;
+    background-color: #F6BB0C;
+    width: 100%;
+}
+.myButton2{
+    border-radius: 50px 50px 50px 50px ;
+    width: 270px;
+    background-color: white;
+    color:black;
+    border-color: #1d2124;
+    box-shadow: 2px 2px 2px darkgray;
+}
+.myRowP{
+    color: white;
+    margin-top: 150px; 
+}
+.card{
+    text-align: center; 
+}
+.card a{
+    text-decoration: none;
+    color: black;
+}
+.myBtn{
+    border-radius: 50px 50px 50px 50px ;
+    color: white;
+}
+.sweet{
+    margin-left: 480px;
+}
+.footer_shop a{
+    font-family: 'Merriweather', serif;
+}
+.content_aug{
+    height: 1000px;
+    width: 100%;
+    margin-top: 150px;
+}
+.text_aug{
+    margin-left: 430px;
+}
+.fixCard{
+    height: 100px;
+}
+.content_gear{
+    margin-top: 50px;
+}
+.myFilter{
+    margin-left: 600px;
+}
+.myButton3{
+    border-radius: 50px 50px 50px 50px ;
+    width: 550px;
+    background-color: white;
+    border: darkorchid
 }
