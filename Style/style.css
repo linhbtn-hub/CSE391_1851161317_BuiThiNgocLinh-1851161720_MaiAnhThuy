@@ -279,3 +279,19 @@
     background-color: white;
     border: darkorchid
 }
+.drd_1{
+    width: 300px; 
+    height: 40px;
+    margin-left: 800px;
+    border-radius: 15px 15px 15px 15px;
+    font-size: 12px;
+    text-align: left;
+}
+.drd_2{
+    width:300px;
+    border-radius: 15px 15px 15px 15px;
+    font-size: 12px;
+    text-align: left;
+    height: 40px;
+    margin-left: 220px;
+}
